@@ -9,9 +9,3 @@ layout: default
 ```
 hello
 ```
-
-<style>
-  .footer {
-    display: none;
-  }
-</style>
