@@ -33,7 +33,7 @@ plugins:
   - jekyll-feed
   - jekyll-remote-theme
 
-google_analytics: G-T6RXBV04L8
+google_analytics: https://www.googletagmanager.com/gtag/js?id=G-T6RXBV04L8
 
 # Exclude from processing.
 # The following items will not be processed, by default.
