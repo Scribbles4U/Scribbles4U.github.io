@@ -26,15 +26,12 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://penguindump.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username: 
-author: test
 
 # Build settings
 remote_theme: pages-themes/tactile@v0.2.0
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
-
-google_analytics: https://www.googletagmanager.com/gtag/js?id=G-T6RXBV04L8
 
 # Exclude from processing.
 # The following items will not be processed, by default.
