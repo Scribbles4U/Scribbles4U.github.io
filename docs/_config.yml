@@ -27,7 +27,7 @@ url: "https://penguindump.com" # the base hostname & protocol for your site, e.g
 twitter_username: 
 github_username: 
 
-google_analytics: "G-T6RXBV04L8"
+google_analytics: G-T6RXBV04L8
 
 # Build settings
 remote_theme: pages-themes/tactile@v0.2.0
