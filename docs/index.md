@@ -4,6 +4,10 @@
 
 layout: default
 ---
+<h1>Acceptance Comes from Within</h1>
+<h5>08/25/2023</h5>
+Quit waiting for people to accept what you say before you live your life
+
 <h1>Negotiation is Essential to Improve Quality of Life</h1>
 <h5>08/24/2023</h5>
 Be willing to negotiate for what you want.  Often times you will get a better deal simply by asking.  The people pleasing part of you may think it's selfish and greedy.  The other party can always say no and both parties can re-evaluate the terms.
