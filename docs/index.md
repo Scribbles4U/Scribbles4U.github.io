@@ -6,7 +6,7 @@ layout: default
 ---
 <h1>Dealing with Procrastination</h1>
 <h5>08/27/2023</h5>
-It can be helpful to conciously reframe important tasks in your mind from "I need to [task]..." to "I'm going to [task]..." then immediately take the first action towards that task before you forget.  It seems like this shifts the task from the overwhelming void to the tendency for commitment.
+It can be helpful to conciously reframe important tasks in your mind from "I need to [task]..." to "I'm going to [task]..." then immediately take the first action towards that task before you forget.  These two steps seem to push the task from overwhelmingly stagnant to the tendency for commitment with a bit of mental and physical inertia.
 
 <h1>Acceptance Comes from Within</h1>
 <h5>08/25/2023</h5>
